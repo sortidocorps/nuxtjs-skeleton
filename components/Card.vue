@@ -13,7 +13,7 @@
       lg:mx-0
     "
   >
-    <img class="w-full bg-cover" src="http://placeimg.com/640/360/nature" />
+    <img class="w-full bg-cover" src="~/assets/nature.jpg" />
     <div class="px-3 pb-2">
       <div class="pt-2">
         <span class="text-sm text-gray-400 font-medium">110 likes</span>

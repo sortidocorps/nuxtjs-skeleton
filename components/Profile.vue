@@ -15,13 +15,13 @@
     <img
       class="max-h-20 w-full opacity-80 absolute top-0 object-cover"
       style="z-index: -1"
-      src="http://placeimg.com/640/360/nature"
+      src="~/assets/nature.jpg"
       alt=""
     />
     <div class="profile w-full flex m-3 ml-4 text-white">
       <img
         class="w-28 h-28 p-1 bg-white rounded-full object-cover"
-        src="http://placeimg.com/640/360/people"
+        src="~/assets/people.jpg"
         alt=""
       />
       <div class="title mt-11 ml-3 font-bold flex flex-col">
@@ -47,7 +47,7 @@
         class="
           add
           border
-          rounded-l-2xl rounded-r-sm
+          rounded-sm
           border-gray-300
           p-1
           px-4
@@ -55,7 +55,7 @@
           hover:bg-gray-700 hover:text-white
         "
       >
-        Contact
+        Profile
       </div>
     </div>
   </div>

@@ -20,6 +20,7 @@ export default {
   },
 
   created() {
+    // this.$nuxt.$loading.start()
     this.$nextTick(() => {
       this.loading = false
     })
