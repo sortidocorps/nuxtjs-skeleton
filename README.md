@@ -2,4 +2,4 @@
 
 ## Build Setup
 
-Yt link is comming
+https://youtu.be/GNYvuami3Hs
